@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/investments.db
+
+.streamlit/
+
+.idea/
+.vscode/
+
+*.log
